@@ -7,7 +7,7 @@ Welcome to the machine learning course!
 
 **For assignments: click [here](https://drive.google.com/drive/folders/1TlCS8b2Qsdh3n7oxUlszGSfDycs7e0DU).**
 
-**Tencent Meeting Room Number: 646-932-3759 click [here](https://meeting.tencent.com/p/6469323759) to join the meeting.**
+**Tencent Meeting Room Number: 646-932-3759 click [here](https://meeting.tencent.com/p/6469323759) to join the online course.**
 
 TA email: seu_ml2020@163.com (Please finish your assignments by LaTeX and email them to here.)
 ## Dashboard
