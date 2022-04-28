@@ -13,7 +13,9 @@ Welcome to the machine learning course!
 
 TA email: seu_ml2020@163.com (Please finish your assignments by LaTeX and email them to here.)
 ## Dashboard
-\[4/28/2022\]Assignment 4 & 5 has been uploaded(DDL: 5/22/2022 23:00)
+\[4/28/2022\]Assignment 4 & 5 have been uploaded(DDL: 5/22/2022 23:00)
+
+\[4/28/2022\]Slides and videos have been uploaded.
 
 \[4/7/2022\]Experiment 3 has been uploaded(Deadline: 4/17/2022 23:00)
 
